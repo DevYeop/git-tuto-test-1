@@ -17,6 +17,7 @@ public class HomeController {
 	public String home(Locale locale, Model model) {
 		
 		String commit_1 = "asdf";
+		String commit_2 = "asdf";
 		
 		return "home";
 	}
