@@ -22,6 +22,10 @@ public class HomeController {
 		String commit_3 = "asdf";
 		String commit_4 = "asdsadfasdf";
 		
+		String stash_1 = "asdfasdfasdfasdfasdf";
+		
+		
+		
 		return "home";
 	}
 	
